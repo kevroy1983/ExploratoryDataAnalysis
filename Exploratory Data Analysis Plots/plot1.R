@@ -10,3 +10,5 @@ title(main = "Total Annual Emissions of PM25 in the United States",
 
 dev.copy(png,file ="plot1.png", width = 480, height = 480)
 dev.off()
+
+# Total annual emmisions of PM2.5 have reduced greatly between 1999 and 2008, where it reduced to more than half the amount in 2008
